@@ -7,8 +7,7 @@ EasyStock
 - Produto: Indica o nome do produto e seu valor. Ex: Fogão R$500.00
 - Classificações: Une produto e o tipo do produto. Ex: Eletrodomésticos > Fogão R$500.00
 
-- O sistema conta com um sistema de autenticação para a entrada, para isso, use:
-- Ususário: gustavoh Senha:1323714gg1
+- O sistema conta com um sistema de autenticação para a entrada
 
 - O sistema funciona com as 4 aplicações get, 
 post, put e delete.
